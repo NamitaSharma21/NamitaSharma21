@@ -75,7 +75,7 @@
 
 ---
 
-## 📈 GitHub Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img
@@ -90,30 +90,19 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=NamitaSharma21&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=NamitaSharma21&theme=tokyonight&hide_border=true"
     alt="GitHub Contribution Streak"
   />
 </p>
 
 ---
 
-# 📊 GitHub Overview
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=NamitaSharma21&show_icons=true&hide=issues,prs&hide_border=true&theme=tokyonight"
-    alt="GitHub Commit Graph"
-  />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=NamitaSharma21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
-    alt="GitHub Trophies"
+    src="https://github-profile-trophy.vercel.app/?username=NamitaSharma21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"
+    alt="GitHub Achievements"
   />
 </p>
 
@@ -121,17 +110,11 @@
 
 # ⭐ Featured Projects
 
-### 🛡️ Phishing Detection System
+### 🛡️ URL Phishing Detector
 
 A security-focused application designed to detect and identify potentially malicious or phishing URLs.
 
-**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB`
-
-<p>
-  <a href="https://github.com/NamitaSharma21">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
-  </a>
-</p>
+**Tech Stack:** `Python`
 
 ---
 
@@ -141,11 +124,15 @@ A full-stack application that analyzes a user's skills and generates a personali
 
 **Tech Stack:** `React` `Node.js` `Express.js` `MongoDB`
 
-<p>
-  <a href="https://github.com/NamitaSharma21">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
-  </a>
-</p>
+🔗 **Live Project:** [Skill Mismatch Roadmap Generator](https://skillmismatchfullstack.vercel.app/)
+
+---
+
+### 🎙️ Voice AI
+
+An AI-powered voice application built using the MERN stack, designed to provide voice-based interaction through a modern web interface.
+
+**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB`
 
 ---
 
@@ -155,39 +142,21 @@ A student management application developed using ASP.NET Core MVC with authentic
 
 **Tech Stack:** `C#` `ASP.NET Core MVC` `Entity Framework Core` `SQL Server`
 
-<p>
-  <a href="https://github.com/NamitaSharma21">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
-  </a>
-</p>
-
 ---
 
 ### 🔐 Password Strength Checker
 
-A security-focused web application that evaluates password strength and provides feedback to improve password security.
+A security-focused application that evaluates password strength and provides feedback to improve password security.
 
-**Tech Stack:** `HTML` `CSS` `JavaScript`
-
-<p>
-  <a href="https://github.com/NamitaSharma21">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
-  </a>
-</p>
+**Tech Stack:** `Python`
 
 ---
 
 ### 💰 Expense Tracker
 
-A web application for managing and tracking personal expenses with a simple and user-friendly interface.
+A simple application for managing and tracking personal expenses.
 
-**Tech Stack:** `React` `JavaScript` `Node.js` `MongoDB`
-
-<p>
-  <a href="https://github.com/NamitaSharma21">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
-  </a>
-</p>
+**Tech Stack:** `C++`
 
 ---
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Namita Sharma</h1>
 
-<h3 align="center">💻 Software Developer | Full-Stack Developer | DSA Enthusiast</h3>
+<h3 align="center">💻 Software Developer | Full-Stack Developer </h3>
 
 <p align="center">
   <a href="https://github.com/NamitaSharma21">

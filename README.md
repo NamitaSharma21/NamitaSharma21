@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Namita Sharma</h1>
 
-<h3 align="center">💻 Software Developer | Full-Stack Developer</h3>
+<h3 align="center">💻 Software Developer | Full-Stack Developer </h3>
 
 <p align="center">
   <a href="https://github.com/NamitaSharma21">
@@ -57,16 +57,8 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-now.vercel.app/api?username=NamitaSharma21&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&cache_seconds=1800" height="180" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=NamitaSharma21&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=1800" height="180" alt="Top Languages" />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NamitaSharma21&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NamitaSharma21&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" height="180" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NamitaSharma21&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180" alt="Top Languages" />
 </p>
 
 ---
@@ -74,15 +66,7 @@
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NamitaSharma21&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NamitaSharma21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Achievements" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamitaSharma21&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---

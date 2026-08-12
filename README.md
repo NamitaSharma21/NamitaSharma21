@@ -1,32 +1,253 @@
 <h1 align="center">Hi 👋, I'm Namita Sharma</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=namitasharma21&label=Profile%20views&color=0e75b6&style=flat" alt="namitasharma21" /> </p>
+<h3 align="center">💻 Software Developer | Full-Stack Developer | DSA Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namitasharma21" alt="namitasharma21" /></a> </p>
-
-- 🔭 I’m currently working on **Phishing Detection System**
-
-- 🌱 I’m currently learning **System Design**
-
-- 👨‍💻 All of my projects are available at [http://namitasharmaportfolio.vercel.app/](http://namitasharmaportfolio.vercel.app/)
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **namitaaa183@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K0d3SY0PvJ7moJOAJXFUNhb7dlkuSqCs/view?usp=drive_link](https://drive.google.com/file/d/1K0d3SY0PvJ7moJOAJXFUNhb7dlkuSqCs/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/namita_sharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="namita_sharmaa" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/NamitaSharma21">
+    <img src="https://komarev.com/ghpvc/?username=NamitaSharma21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/NamitaSharma21?tab=followers">
+    <img src="https://img.shields.io/github/followers/NamitaSharma21?label=Followers&style=flat&logo=github" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/NamitaSharma21?tab=repositories">
+    <img src="https://img.shields.io/github/stars/NamitaSharma21?label=Stars&style=flat&logo=github" alt="GitHub Stars"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namitasharma21&show_icons=true&locale=en&layout=compact" alt="namitasharma21" /></p>
+## 👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namitasharma21&show_icons=true&locale=en" alt="namitasharma21" /></p>
+* 🎓 B.Tech Computer Science & Engineering student
+* 💻 Passionate about **Software Engineering & Full-Stack Development**
+* 🔭 Currently working on **Phishing Detection System**
+* 🌱 Currently learning **System Design**
+* 🧠 Practicing **Data Structures & Algorithms using C++**
+* 🛡️ Exploring **Cybersecurity & Web Security**
+* ⚡ Experienced with both **MERN Stack and .NET**
+* 🚀 Building projects that solve real-world problems
+* 🎯 Goal: Become a strong **Software Engineer**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namitasharma21&" alt="namitasharma21" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,js,python" alt="Languages"/>
+</p>
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="Frontend"/>
+</p>
+
+### ⚙️ Backend & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql" alt="Backend and Databases"/>
+</p>
+
+### 🔧 Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma,docker" alt="Tools"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=NamitaSharma21&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamitaSharma21&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 📈 GitHub Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NamitaSharma21&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=NamitaSharma21&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+# 📊 GitHub Overview
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=NamitaSharma21&show_icons=true&hide=issues,prs&hide_border=true&theme=tokyonight"
+    alt="GitHub Commit Graph"
+  />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=NamitaSharma21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+### 🛡️ Phishing Detection System
+
+A security-focused application designed to detect and identify potentially malicious or phishing URLs.
+
+**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB`
+
+<p>
+  <a href="https://github.com/NamitaSharma21">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
+  </a>
+</p>
+
+---
+
+### 🧭 Skill Mismatch Roadmap Generator
+
+A full-stack application that analyzes a user's skills and generates a personalized learning roadmap to help bridge skill gaps.
+
+**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB`
+
+<p>
+  <a href="https://github.com/NamitaSharma21">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
+  </a>
+</p>
+
+---
+
+### 🎓 Student Management System
+
+A student management application developed using ASP.NET Core MVC with authentication, role-based access, student management, departments and SQL Server integration.
+
+**Tech Stack:** `C#` `ASP.NET Core MVC` `Entity Framework Core` `SQL Server`
+
+<p>
+  <a href="https://github.com/NamitaSharma21">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
+  </a>
+</p>
+
+---
+
+### 🔐 Password Strength Checker
+
+A security-focused web application that evaluates password strength and provides feedback to improve password security.
+
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+<p>
+  <a href="https://github.com/NamitaSharma21">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
+  </a>
+</p>
+
+---
+
+### 💰 Expense Tracker
+
+A web application for managing and tracking personal expenses with a simple and user-friendly interface.
+
+**Tech Stack:** `React` `JavaScript` `Node.js` `MongoDB`
+
+<p>
+  <a href="https://github.com/NamitaSharma21">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
+  </a>
+</p>
+
+---
+
+# 🧠 Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/Namita_sharmaA/">
+    <img src="https://img.shields.io/badge/LeetCode-Namita__sharmaA-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Currently practicing Data Structures & Algorithms using C++</i>
+</p>
+
+---
+
+# 🌐 Portfolio
+
+<p align="center">
+  <a href="https://namitasharmaportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+# 📄 Resume
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1K0d3SY0PvJ7moJOAJXFUNhb7dlkuSqCs/view">
+    <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  </a>
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:namitaaa183@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/NamitaSharma21">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/Namita_sharmaA/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://namitasharmaportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 Learn • Build • Solve • Improve</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
